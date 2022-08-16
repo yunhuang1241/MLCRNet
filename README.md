@@ -1,12 +1,17 @@
 # MLCRNet
-
 **MLCRNet: Multi-Level Context Refinement for Semantic
 Segmentation in Aerial Images**
 
 
 *Zhifeng Huang, Qian Zhang, Guixu Zhang*
 
-[Remote Sensing 2022.3](https://www.mdpi.com/2072-4292/14/6/1498)
+<div align="center">
+  <img src="./mct_module.png" height="400">
+</div>
+<p align="center">
+    <b>Figure 1.</b> The efficient multi-level context transform (EMCT) moddule.
+</p>
+
 
 ## Installation
 
