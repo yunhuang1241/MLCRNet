@@ -9,8 +9,8 @@ model = dict(
         num_classes=6))
 data = dict(
     samples_per_gpu=8,
-    train = dict(data_root = '/home/hzf/datasets/potsdam'),
-    val = dict(data_root = '/home/hzf/datasets/potsdam'),
-    test = dict(data_root = '/home/hzf/datasets/potsdam'),
+    train = dict(data_root = 'datasets/potsdam'),
+    val = dict(data_root = 'datasets/potsdam'),
+    test = dict(data_root = 'datasets/potsdam'),
 )
 find_unused_parameters = True
